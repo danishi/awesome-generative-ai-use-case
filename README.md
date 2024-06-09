@@ -31,7 +31,7 @@ Contributions welcome!
 - [AI Identifies New Materials for Carbon Capture](https://www.sciencedaily.com/releases/2024/02/240214122603.htm) - Scientists at Argonne National Laboratory used generative AI to design over 120,000 new metal-organic frameworks (MOFs) for carbon capture in 30 minutes, accelerating the discovery of cost-effective, efficient materials.
 
 ## Financial
-- [How Generative AI in Finance Addresses 10 Key Operational and Strategic Industry Challenges] - Generative AI in finance improves efficiency by automating repetitive tasks, enhances risk management, detects and prevents fraud, personalizes customer services, and optimizes investment strategies. Real-world applications include chatbots for customer interaction, fraud detection algorithms, and AI-driven investment advisory tools.
+- [How Generative AI in Finance Addresses 10 Key Operational and Strategic Industry Challenges](https://masterofcode.com/blog/generative-ai-in-finance) - Generative AI in finance improves efficiency by automating repetitive tasks, enhances risk management, detects and prevents fraud, personalizes customer services, and optimizes investment strategies. Real-world applications include chatbots for customer interaction, fraud detection algorithms, and AI-driven investment advisory tools.
 
 ## Other
 - [Generative AI Use Cases JP](https://github.com/aws-samples/generative-ai-use-cases-jp) - This is an application implementation with a collection of business use cases for safely utilizing generative AI in business operations.
