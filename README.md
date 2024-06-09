@@ -16,6 +16,7 @@ Contributions welcome!
 - [Gaming](#gaming)
 - [Software](#software)
 - [Science](#science)
+- [Entertainment](#entertainment)
 - [Financial](#financial)
 - [Other](#other)
 
@@ -35,6 +36,9 @@ Contributions welcome!
 
 ## Science
 - [AI Identifies New Materials for Carbon Capture](https://www.sciencedaily.com/releases/2024/02/240214122603.htm) - Scientists at Argonne National Laboratory used generative AI to design over 120,000 new metal-organic frameworks (MOFs) for carbon capture in 30 minutes, accelerating the discovery of cost-effective, efficient materials.
+
+## Entertainment
+- [Paidon](https://www.amazon.com/dp/4065204992) - This manga was born from a project that uses AI technology to create new manga by Osamu Tezuka.
 
 ## Financial
 - [How Generative AI in Finance Addresses 10 Key Operational and Strategic Industry Challenges](https://masterofcode.com/blog/generative-ai-in-finance) - Generative AI in finance improves efficiency by automating repetitive tasks, enhances risk management, detects and prevents fraud, personalizes customer services, and optimizes investment strategies. Real-world applications include chatbots for customer interaction, fraud detection algorithms, and AI-driven investment advisory tools.
