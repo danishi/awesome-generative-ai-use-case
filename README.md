@@ -22,7 +22,7 @@ Contributions welcome!
 ## Marketing and Advertising
 - [Walmart Enhances Search with Generative AI](https://www.retaildive.com/news/Walmart-generative-ai-search-customers-workers/716820/) - Walmart uses generative AI to improve customer search results and assist employees in inventory management and operational tasks, boosting efficiency and service quality.
 - [Lightchain](https://scroll-int.jp/lightchain/) - AI will generate design proposals by specifying taste and type of clothing.
-- [Luna](https://www.instagram.com/lunagram_158/) - Shimamura employs AI model "Luna".
+- [Luna](https://www.instagram.com/lunagram_158/) - Shimamura employs AI fashion model "Luna".
 
 ## Manufacturing
 - [AI Designs Health-Boosting Beverage in Switzerland](https://www.foodnavigator.com/Article/2023/06/09/Vivi-Nova-AI-designs-beverage-in-Switzerland) - Vivi Kola used generative AI tools like ChatGPT and Midjourney to create Vivi Nova, a low-sugar, vegan soda with health benefits. AI facilitated recipe development, ingredient selection, and branding in just two days.
@@ -40,5 +40,6 @@ Contributions welcome!
 - [How Generative AI in Finance Addresses 10 Key Operational and Strategic Industry Challenges](https://masterofcode.com/blog/generative-ai-in-finance) - Generative AI in finance improves efficiency by automating repetitive tasks, enhances risk management, detects and prevents fraud, personalizes customer services, and optimizes investment strategies. Real-world applications include chatbots for customer interaction, fraud detection algorithms, and AI-driven investment advisory tools.
 
 ## Other
+- [Deathbots](https://restofworld.org/2024/china-ai-chatbot-dead-relatives/) - China's AI Chatbots Recreate Conversations with Deceased Relatives.
 - [Poetry Camera](https://poetry.camera/) - Poetry Camera prints poems instead of pictures.
 - [Generative AI Use Cases JP](https://github.com/aws-samples/generative-ai-use-cases-jp) - This is an application implementation with a collection of business use cases for safely utilizing generative AI in business operations.
