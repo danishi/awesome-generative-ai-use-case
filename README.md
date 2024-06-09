@@ -9,7 +9,7 @@ Case studies from a variety of industries may bring new discoveries and inspirat
 
 Contributions welcome!
 
-## Table of Contents
+## Contents
 
 - [Marketing and Advertising](#marketing-and-advertising)
 - [Manufacturing](#manufacturing)
