@@ -33,6 +33,7 @@ Contributions welcome!
 
 ## Software
 - [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/) - AI-powered documentation assistant incorporating kapa.ai.
+- [Generating COBOL Specification Documents with Amazon Bedrock](https://aws.amazon.com/jp/blogs/news/generate-cobol-spec-docuement-using-amazon-bedrock/) - Amazon Bedrock uses generative AI to create COBOL specification documents. This tool helps engineers understand and update legacy systems by automatically generating documentation from COBOL source code, improving efficiency and accuracy in maintaining older software.
 
 ## Science
 - [AI Identifies New Materials for Carbon Capture](https://www.sciencedaily.com/releases/2024/02/240214122603.htm) - Scientists at Argonne National Laboratory used generative AI to design over 120,000 new metal-organic frameworks (MOFs) for carbon capture in 30 minutes, accelerating the discovery of cost-effective, efficient materials.
