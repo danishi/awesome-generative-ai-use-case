@@ -13,8 +13,8 @@ Contributions welcome!
 
 - [Marketing and Advertising](#marketing-and-advertising)
 - [Manufacturing](#manufacturing)
-- [Customer Service](#customer-service)
 - [Gaming](#gaming)
+- [Customer Service](#customer-service)
 - [Software](#software)
 - [Science](#science)
 - [Entertainment](#entertainment)
