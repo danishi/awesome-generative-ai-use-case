@@ -13,6 +13,7 @@ Contributions welcome!
 
 - [Marketing and Advertising](#marketing-and-advertising)
 - [Manufacturing](#manufacturing)
+- [Customer Service](#customer-service)
 - [Gaming](#gaming)
 - [Software](#software)
 - [Science](#science)
@@ -27,9 +28,13 @@ Contributions welcome!
 
 ## Manufacturing
 - [AI Designs Health-Boosting Beverage in Switzerland](https://www.foodnavigator.com/Article/2023/06/09/Vivi-Nova-AI-designs-beverage-in-Switzerland) - Vivi Kola used generative AI tools like ChatGPT and Midjourney to create Vivi Nova, a low-sugar, vegan soda with health benefits. AI facilitated recipe development, ingredient selection, and branding in just two days.
+- [Panasonic Uses AI for Floor Plan Estimation](https://sumai.panasonic.jp/contents/housing-biz/madorizu-sekisan/) - Panasonic has introduced an AI tool that generates detailed floor plan estimations. This tool automates the creation of layout drawings and material lists, enhancing the efficiency and accuracy of housing project planning and construction.
 
 ## Gaming
 - [Ubisoft's AI Tool Generates NPC Dialogue](https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/) - Ubisoft introduced an AI tool that automatically generates dialogue for non-playable characters (NPCs) in games. This tool enhances realism and efficiency in game development by creating diverse, context-sensitive interactions without extensive manual scripting.
+
+## Customer Service
+- [Fujitsu Develops AI Tool for Customer Harassment Training](https://pr.fujitsu.com/jp/news/updatesfj/2024/06/3.html) - Fujitsu, in collaboration with Toyo University, has developed an AI tool that uses generative AI and criminal psychology to simulate customer harassment scenarios. The tool provides immersive training and personalized narrative feedback to help employees improve their response skills and reduce psychological stress.
 
 ## Software
 - [Docker Documentation Gets an AI-Powered Assistant](https://www.docker.com/blog/docker-documentation-ai-powered-assistant/) - AI-powered documentation assistant incorporating kapa.ai.
