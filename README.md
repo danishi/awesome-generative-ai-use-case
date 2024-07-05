@@ -53,3 +53,4 @@ Contributions welcome!
 - [Deathbots](https://restofworld.org/2024/china-ai-chatbot-dead-relatives/) - China's AI Chatbots Recreate Conversations with Deceased Relatives.
 - [Poetry Camera](https://poetry.camera/) - Poetry Camera prints poems instead of pictures.
 - [Generative AI Use Cases JP](https://github.com/aws-samples/generative-ai-use-cases-jp) - This is an application implementation with a collection of business use cases for safely utilizing generative AI in business operations.
+- [AI Kanji](https://www.gatebox.ai/news/20240702-aikanji) - "AI Kanji" can recognize the remaining amount of beer and suggest the next drink to customers, enhancing the dining experience and improving service efficiency.
